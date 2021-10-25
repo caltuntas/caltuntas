@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **[Twitter](https://twitter.com/caltuntas), [Blog](https://www.cihataltuntas.com)**
 
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=caltuntas.caltuntas&color=00df00)
